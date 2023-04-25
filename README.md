@@ -16,10 +16,10 @@
 
 ## :pushpin: Projects
 ### 1. [Notebook](https://github.com/INGPlay/SpringMVC_Practice)
->사용자 계정마다 독립된 노트를 저장할 수 있는 웹 어플리케이션 (개인 프로젝트)  
+>사용자 계정마다 독립된 환경에서 노트를 저장할 수 있는 웹 어플리케이션 (개인 프로젝트)  
 >개발 기간: 2023.3.31 ~ 2023.4.10  
 >  
->기술 스택:  
+>✔ 기술 스택:  
 >Java 11 / Spring Boot v2.7.10 / MyBatis / Spring Security /
 >Oracle DB / HTML / Thymleaf / BootStrap / Gradle
 >  
@@ -31,7 +31,7 @@
 >이전의 Notebook 프로젝트를 API로 작성한 코드 (개인 프로젝트)  
 >개발 기간: 2023.4.20 ~ 2023.4.? 
 >  
->기술 스택:  
+>✔ 기술 스택:  
 >Java 11 / Spring Boot v2.7.10 / Hibernate JPA /
 >H2 DB / MySQL / Swagger UI / Gradle
 >  
@@ -43,7 +43,7 @@
 >외국인 한국어 학습자를 위한 발화 평가 및 피드백 서비스  (팀 프로젝트)  
 >개발 기간: 2022.10 ~ 2022.12
 >  
->기술 스택:  
+>✔ 기술 스택:  
 >Python 3 / Flask / Tensorflow / KoElectra / KoGPT / 
 >MySQL / Pandas / Numpy / HTML / BootStrap / etc...
 >  

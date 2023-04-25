@@ -1,7 +1,5 @@
 # 김병주 포트폴리오
 
-</br>
-
 ## :pushpin: Intro
 JAVA 백엔드 개발자 김병주 입니다.
 
@@ -19,7 +17,7 @@ JAVA 백엔드 개발자 김병주 입니다.
 >개발 기간: 2023.3.31 ~ 2023.4.10  
 >  
 >✔ 기술 스택:  
->Java 11 / Spring Boot v2.7.10 / MyBatis / Spring Security /
+>Java 11 / Spring Boot v2.7.10 / MyBatis / Spring Security /  
 >Oracle DB / HTML / Thymleaf / BootStrap / Gradle
 >  
 >[프로젝트 링크](https://github.com/INGPlay/SpringMVC_Practice) 참고
@@ -27,11 +25,11 @@ JAVA 백엔드 개발자 김병주 입니다.
 ---
 
 ### 2. [Notebook API](https://github.com/INGPlay/Spring_API_JPA_example)
->이전의 Notebook 프로젝트를 API로 작성한 코드 (개인 프로젝트)  
+>이전의 Notebook 프로젝트를 API 작성 및 개선한 프로젝트 (개인 프로젝트)  
 >개발 기간: 2023.4.20 ~ 2023.4.? 
 >  
 >✔ 기술 스택:  
->Java 11 / Spring Boot v2.7.10 / Hibernate JPA /
+>Java 11 / Spring Boot v2.7.10 / Hibernate JPA /  
 >H2 DB / MySQL / Swagger UI / Gradle
 >  
 >[프로젝트 링크](https://github.com/INGPlay/Spring_API_JPA_example) 참고
@@ -43,7 +41,7 @@ JAVA 백엔드 개발자 김병주 입니다.
 >개발 기간: 2022.10 ~ 2022.12
 >  
 >✔ 기술 스택:  
->Python 3 / Flask / Tensorflow / KoElectra / KoGPT / 
+>Python 3 / Flask / Tensorflow / KoElectra / KoGPT /  
 >MySQL / Pandas / Numpy / HTML / BootStrap / etc...
 >  
 >[프로젝트 상세 설명]() 참고

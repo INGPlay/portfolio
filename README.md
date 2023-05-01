@@ -14,7 +14,7 @@ Java Spring Framework와 Database를 사용합니다. 성능과 효율을 생각
 
 ## :pushpin: Projects
 
-### 1. [Notebook](https://github.com/INGPlay/JavaBasicProject)
+### 1. [CLI Project](https://github.com/INGPlay/JavaBasicProject)
 >멀티 캠퍼스에서 진행하였던 자바 기본을 활용한 프로젝트  
 >개발 기간: 2023.3.17 ~ 2023.3.31  
 >  

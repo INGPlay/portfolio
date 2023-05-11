@@ -21,7 +21,7 @@ Java Spring Framework와 Database를 사용합니다. 성능과 효율을 생각
 >✔ 기술 스택:  
 >Java 11
 >
->[프로젝트 링크](https://github.com/INGPlay/SpringMVC_Practice) 참고
+>[프로젝트 링크](https://github.com/INGPlay/JavaBasicProject) 참고
 
 ---
 

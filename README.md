@@ -14,18 +14,7 @@ Java Spring Framework와 Database를 사용합니다. 성능과 효율을 생각
 
 ## :pushpin: Projects
 
-### 1. [CLI Project](https://github.com/INGPlay/JavaBasicProject)
->멀티 캠퍼스에서 진행하였던 자바 기본을 활용한 프로젝트  
->개발 기간: 2023.3.17 ~ 2023.3.31  
->  
->✔ 기술 스택:  
->Java 11
->
->[프로젝트 링크](https://github.com/INGPlay/JavaBasicProject) 참고
-
----
-
-### 2. [Notebook](https://github.com/INGPlay/SpringMVC_Practice)
+### 1. [Notebook](https://github.com/INGPlay/SpringMVC_Practice)
 >사용자 계정마다 독립된 환경에서 노트를 저장할 수 있는 웹 어플리케이션 (개인 프로젝트)  
 >개발 기간: 2023.3.31 ~ 2023.4.10  
 >  
@@ -37,7 +26,7 @@ Java Spring Framework와 Database를 사용합니다. 성능과 효율을 생각
 
 ---
 
-### 3. [Notebook API](https://github.com/INGPlay/Spring_API_JPA_example)
+### 2. [Notebook API](https://github.com/INGPlay/Spring_API_JPA_example)
 >Notebook 프로젝트를 API 작성 및 개선한 프로젝트 (개인 프로젝트)  
 >개발 기간: 2023.4.20 ~ 2023.4.30 
 >  
@@ -46,6 +35,17 @@ Java Spring Framework와 Database를 사용합니다. 성능과 효율을 생각
 >H2 DB / Maria DB / Swagger UI / Gradle / Git
 >  
 >[프로젝트 링크](https://github.com/INGPlay/Spring_API_JPA_example) 참고
+
+---
+
+### 3. [CLI Project](https://github.com/INGPlay/JavaBasicProject)
+>멀티 캠퍼스에서 진행하였던 자바 기본을 활용한 프로젝트  
+>개발 기간: 2023.3.17 ~ 2023.3.31  
+>  
+>✔ 기술 스택:  
+>Java 11
+>
+>[프로젝트 링크](https://github.com/INGPlay/JavaBasicProject) 참고
 
 ---
 

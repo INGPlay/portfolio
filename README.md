@@ -1,7 +1,7 @@
 # 김병주 포트폴리오
 
 ## :pushpin: Intro
-JAVA 웹 백엔드 개발자 김병주 입니다.   
+JAVA 웹 백엔드 개발자를 목표로 하고 있는 김병주 라고 합니다.   
 Java Spring Framework와 Database를 사용합니다. 성능과 효율을 생각하며 프로그래밍하려 노력하고 있습니다.
 
 </br>
@@ -14,8 +14,21 @@ Java Spring Framework와 Database를 사용합니다. 성능과 효율을 생각
 
 ## :pushpin: Projects
 
-### 1. [Notebook](https://github.com/INGPlay/SpringMVC_Practice)
->사용자 계정마다 독립된 환경에서 노트를 저장할 수 있는 웹 어플리케이션 (개인 프로젝트)  
+### 1. [DynamicAuthority](https://github.com/INGPlay/SpringBoardAuthority)
+>실시간으로 권한을 변경할 수 있는 게시판 웹 애플리케이션 구현  
+>개발 기간: 2023.5.13 ~ 2023.5.25  
+> 
+>✔ 기술 스택:  
+>Java 11 / Spring Boot v2.7.11 / QueryDsl / Spring Data Jpa /  
+>Spring Security / Lombok / H2 DB /  
+>HTML / Thymleaf / BootStrap / Gradle / Git  
+>
+>[프로젝트 링크](https://github.com/INGPlay/SpringMVC_Practice) 참고
+
+---
+
+### 2. [Notebook](https://github.com/INGPlay/SpringMVC_Practice)
+>사용자 계정마다 독립된 환경에서 노트를 저장할 수 있는 웹 애플리케이션 (개인 프로젝트)  
 >개발 기간: 2023.3.31 ~ 2023.4.10  
 >  
 >✔ 기술 스택:  
@@ -26,7 +39,7 @@ Java Spring Framework와 Database를 사용합니다. 성능과 효율을 생각
 
 ---
 
-### 2. [Notebook API](https://github.com/INGPlay/Spring_API_JPA_example)
+### 3. [Notebook API](https://github.com/INGPlay/Spring_API_JPA_example)
 >Notebook 프로젝트를 API 작성 및 개선한 프로젝트 (개인 프로젝트)  
 >개발 기간: 2023.4.20 ~ 2023.4.30 
 >  
@@ -35,17 +48,6 @@ Java Spring Framework와 Database를 사용합니다. 성능과 효율을 생각
 >H2 DB / Maria DB / Swagger UI / Gradle / Git
 >  
 >[프로젝트 링크](https://github.com/INGPlay/Spring_API_JPA_example) 참고
-
----
-
-### 3. [CLI Project](https://github.com/INGPlay/JavaBasicProject)
->멀티 캠퍼스에서 진행하였던 자바 기본을 활용한 프로젝트  
->개발 기간: 2023.3.17 ~ 2023.3.31  
->  
->✔ 기술 스택:  
->Java 11
->
->[프로젝트 링크](https://github.com/INGPlay/JavaBasicProject) 참고
 
 ---
 
@@ -58,3 +60,18 @@ Java Spring Framework와 Database를 사용합니다. 성능과 효율을 생각
 >MySQL / Pandas / Numpy / HTML / BootStrap / etc...
 >  
 >[프로젝트 소개 및 역할](https://docs.google.com/presentation/d/1pBwJjTmGPJO357GKYYWPZApCdTJhJGyzAf1A71sZ0D0/edit?usp=sharing) 참고
+
+---
+
+### etc. [CLI Project](https://github.com/INGPlay/JavaBasicProject)
+>멀티 캠퍼스에서 진행하였던 자바 기본을 활용한 프로젝트  
+>개발 기간: 2023.3.17 ~ 2023.3.31  
+>  
+>✔ 기술 스택:  
+>Java 11
+>
+>[프로젝트 링크](https://github.com/INGPlay/JavaBasicProject) 참고
+
+---
+
+

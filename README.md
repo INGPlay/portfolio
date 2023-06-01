@@ -16,12 +16,12 @@ Java Spring Framework와 Database를 사용합니다. 성능과 효율을 생각
 
 ### 1. [DynamicAuthority](https://github.com/INGPlay/SpringBoardAuthority)
 >실시간으로 권한을 변경할 수 있는 게시판 웹 애플리케이션 구현  
->개발 기간: 2023.5.13 ~ 2023.5.25  
+>개발 기간: 2023.5.13 ~ 2023.5.31  
 > 
 >✔ 기술 스택:  
 >Java 11 / Spring Boot v2.7.11 / QueryDsl / Spring Data Jpa /  
 >Spring Security / Lombok / H2 DB /  
->HTML / Thymleaf / BootStrap / Gradle / Git  
+>HTML / Thymleaf / BootStrap / JavaScript / jQuery / Gradle / Git  
 >
 >[프로젝트 링크](https://github.com/INGPlay/SpringMVC_Practice) 참고
 

@@ -44,7 +44,7 @@ Java Spring Framework와 Database를 사용합니다. 성능과 효율을 생각
 >Tools :  
 >&nbsp; Gradle / Git  
 >  
->[프로젝트 링크](https://github.com/INGPlay/MultiBackendTeam3) 참고
+>[프로젝트 Github](https://github.com/INGPlay/MultiBackendTeam3) 참고
 
 ### 2. [DynamicAuthority](https://github.com/INGPlay/SpringBoardAuthority)
 >실시간으로 권한을 변경할 수 있는 게시판 웹 애플리케이션 구현  
@@ -62,7 +62,7 @@ Java Spring Framework와 Database를 사용합니다. 성능과 효율을 생각
 >Tools :  
 >&nbsp; Gradle / Git  
 >
->[프로젝트 링크](https://github.com/INGPlay/SpringMVC_Practice) 참고
+>[프로젝트 Github](https://github.com/INGPlay/SpringMVC_Practice) 참고
 
 ---
 
@@ -81,7 +81,7 @@ Java Spring Framework와 Database를 사용합니다. 성능과 효율을 생각
 >Tools :  
 >&nbsp; Gradle / Git
 >  
->[프로젝트 링크](https://github.com/INGPlay/SpringMVC_Practice) 참고
+>[프로젝트 Github](https://github.com/INGPlay/SpringMVC_Practice) 참고
 
 ---
 
@@ -100,7 +100,7 @@ Java Spring Framework와 Database를 사용합니다. 성능과 효율을 생각
 >Tools :  
 >&nbsp; Gradle / Git
 >  
->[프로젝트 링크](https://github.com/INGPlay/Spring_API_JPA_example) 참고
+>[프로젝트 Github](https://github.com/INGPlay/Spring_API_JPA_example) 참고
 
 ---
 

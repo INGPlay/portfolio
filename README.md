@@ -14,9 +14,11 @@ Java Spring Framework와 Database를 사용합니다. 성능과 효율을 생각
 
 ## :pushpin: Projects
 
-### 1. [Trip Over](https://github.com/INGPlay/MultiBackendTeam3)
+### 1. Trip Over  
+>
+><b>[배포 사이트 링크](https://3.36.163.190/)</b>  
+>
 >국내 여행을 계획하고 있는 관광객들을 위한 일정 관리 도구 제공  
->[배포 사이트 링크](https://3.36.163.190/)
 >
 >개발 기간: 2023.5.31 ~ 2023.7.11  
 >개발 인원 : 4명  
@@ -44,9 +46,9 @@ Java Spring Framework와 Database를 사용합니다. 성능과 효율을 생각
 >Tools :  
 >&nbsp; Gradle / Git  
 >  
->[프로젝트 Github](https://github.com/INGPlay/MultiBackendTeam3) 참고
+><b>[프로젝트 Github](https://github.com/INGPlay/MultiBackendTeam3)</b> 참고
 
-### 2. [DynamicAuthority](https://github.com/INGPlay/SpringBoardAuthority)
+### 2. DynamicAuthority
 >실시간으로 권한을 변경할 수 있는 게시판 웹 애플리케이션 구현  
 >개발 기간: 2023.5.13 ~ 2023.5.31  
 >개발 인원 : 1명
@@ -62,11 +64,11 @@ Java Spring Framework와 Database를 사용합니다. 성능과 효율을 생각
 >Tools :  
 >&nbsp; Gradle / Git  
 >
->[프로젝트 Github](https://github.com/INGPlay/SpringMVC_Practice) 참고
+><b>[프로젝트 Github](https://github.com/INGPlay/SpringMVC_Practice)</b> 참고
 
 ---
 
-### 3. [Notebook](https://github.com/INGPlay/SpringMVC_Practice)
+### 3. Notebook
 >사용자 계정마다 독립된 환경에서 노트를 저장할 수 있는 웹 애플리케이션 (개인 프로젝트)  
 >개발 기간: 2023.3.31 ~ 2023.4.10  
 >개발 인원 : 1명
@@ -81,11 +83,11 @@ Java Spring Framework와 Database를 사용합니다. 성능과 효율을 생각
 >Tools :  
 >&nbsp; Gradle / Git
 >  
->[프로젝트 Github](https://github.com/INGPlay/SpringMVC_Practice) 참고
+><b>[프로젝트 Github](https://github.com/INGPlay/SpringMVC_Practice)</b> 참고
 
 ---
 
-### 4. [Notebook API](https://github.com/INGPlay/Spring_API_JPA_example)
+### 4. Notebook API
 >Notebook 프로젝트를 API 작성 및 개선한 프로젝트 (개인 프로젝트)  
 >개발 기간: 2023.4.20 ~ 2023.4.30
 >개발 인원: 1명 
@@ -100,11 +102,11 @@ Java Spring Framework와 Database를 사용합니다. 성능과 효율을 생각
 >Tools :  
 >&nbsp; Gradle / Git
 >  
->[프로젝트 Github](https://github.com/INGPlay/Spring_API_JPA_example) 참고
+><b>[프로젝트 Github](https://github.com/INGPlay/Spring_API_JPA_example)</b> 참고
 
 ---
 
-### etc. [Kopanda](https://docs.google.com/presentation/d/1pBwJjTmGPJO357GKYYWPZApCdTJhJGyzAf1A71sZ0D0/edit?usp=sharing)
+### etc. Kopanda
 >외국인 한국어 학습자를 위한 발화 평가 및 피드백 서비스  (팀 프로젝트)  
 >개발 기간: 2022.10 ~ 2022.12
 >개발 인원: 5명
@@ -113,7 +115,7 @@ Java Spring Framework와 Database를 사용합니다. 성능과 효율을 생각
 >Python 3 / Flask / Tensorflow / KoElectra / KoGPT /  
 >MySQL / Pandas / Numpy / HTML / BootStrap / etc...
 >  
->[프로젝트 소개 및 역할](https://docs.google.com/presentation/d/1pBwJjTmGPJO357GKYYWPZApCdTJhJGyzAf1A71sZ0D0/edit?usp=sharing) 참고
+><b>[프로젝트 소개 및 역할](https://docs.google.com/presentation/d/1pBwJjTmGPJO357GKYYWPZApCdTJhJGyzAf1A71sZ0D0/edit?usp=sharing)</b> 참고
 
 
 ---

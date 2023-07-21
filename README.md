@@ -116,6 +116,8 @@ Java Spring Framework와 Database를 사용합니다. 성능과 효율을 생각
 >개발 기간: 2023.3.31 ~ 2023.4.10  
 >개발 인원 : 1명
 >  
+> ---
+> 
 >✔ 기술 스택:  
 >Backend :   
 >&nbsp; Java 11 / Spring Boot v2.7.10 / MyBatis / Spring Security / Oracle DB
@@ -144,6 +146,8 @@ Java Spring Framework와 Database를 사용합니다. 성능과 효율을 생각
 >개발 기간: 2023.4.20 ~ 2023.4.30
 >개발 인원: 1명 
 >  
+> ---
+> 
 >✔ 기술 스택:  
 >Backend :   
 >&nbsp; Java 11 / Spring Boot v2.7.10 / Hibernate JPA / H2 DB 

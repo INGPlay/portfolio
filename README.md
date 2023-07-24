@@ -2,7 +2,7 @@
 
 ## :pushpin: Intro
 JAVA 웹 백엔드 개발자를 목표로 하고 있는 김병주 라고 합니다.   
-Java Spring Framework와 Database를 사용합니다. 성능과 효율을 생각하며 프로그래밍하려 노력하고 있습니다.
+Java Spring Framework와 Database를 기반으로 개발을 하고 있습니다.
 
 </br>
 
@@ -99,7 +99,7 @@ Java Spring Framework와 Database를 사용합니다. 성능과 효율을 생각
 > 
 >✔ 주요 구현 :
 > 
-> #### 1. Spring Security를 활용한 실시간 권한 제어
+> #### - Spring Security를 활용한 실시간 권한 제어
 > ![account](images/dynamicauthority/account.png)
 > - 관리자가 사용자의 권한을 즉각적으로 수정하거나 사용자의 계정을 삭제할 수 있도록 하였다.
 > - 권한이 수정되면 수정된 사용자는 로그아웃 하게 된다. (SessionRegistry를 활용함)
@@ -132,7 +132,7 @@ Java Spring Framework와 Database를 사용합니다. 성능과 효율을 생각
 > 
 >✔ 주요 구현 :
 > 
-> #### 1. 스프링 시큐리티와 연계한 페이지 작성 
+> #### - 스프링 시큐리티와 연계한 페이지 작성 
 > ![springmvc](images/notebook/pages.png)
 > - 로그인과 가입페이지에서 Spring Validation을 활용한 문자열 검증을 실시하였다.
 > - Spring Security를 활용하여 로그인한 각 개인만 접근할 수 있는 페이지를 작성하였다.
@@ -162,7 +162,7 @@ Java Spring Framework와 Database를 사용합니다. 성능과 효율을 생각
 > 
 >✔ 주요 구현 :
 >
-> 1. 게시판 Rest API 작성 및 Swagger UI 활용
+> #### - 게시판 Rest API 작성 및 Swagger UI 활용
 > ![container](images/notebookapi/container.png)
 > ![post](images/notebookapi/post.png)
 > ![user](images/notebookapi/user.png)

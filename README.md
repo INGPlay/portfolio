@@ -99,10 +99,22 @@ Java Spring Framework와 Database를 기반으로 개발을 하고 있습니다.
 > ---
 > 
 >✔ 주요 구현 :
+>
+> #### 1. Spring Data Jpa 및 QueryDSL을 활용한 게시판 구현
+> ![thread](images/dynamicauthority/main.png)
+> - Spring Data Jpa의 Pageable 객체를 활용하여 페이징 처리하였다.
+> - 동적 쿼리 사용을 위한 QueryDSL로 검색 기능을 구현하였다.
 > 
-> #### - Spring Security를 활용한 실시간 권한 제어
+> ![post](images/dynamicauthority/postmy.png)
+> - 게시글 작성자만 수정 및 삭제를 할 수 있도록 하였다.
+> - 댓글 및 대댓글을 구현하였다.
+> 
+> #### 2. Spring Security를 활용한 실시간 권한 제어
+> ![wireframe](images/dynamicauthority/Wireframe.png)
+> - 기본적으로 각 페이지 마다 들어갈 수 있는 권한을 다르게 구현하였다.
+> 
 > ![account](images/dynamicauthority/account.png)
-> - 관리자가 사용자의 권한을 즉각적으로 수정하거나 사용자의 계정을 삭제할 수 있도록 하였다.
+> - 관리자가 이 정해진 권한을 즉각적으로 수정하거나 사용자의 계정을 삭제할 수 있도록 하였다.
 > - 권한이 수정되면 수정된 사용자는 로그아웃 하게 된다. (SessionRegistry를 활용함)
 > 
 > ![role](images/dynamicauthority/role.png)

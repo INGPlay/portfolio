@@ -28,16 +28,16 @@ JAVA 웹 백엔드 개발자를 목표로 하고 있는 김병주 라고 합니�
 >&nbsp; MariaDB / Redis  
 >
 >LLM Model API :  
->&nbsp; Open AI / Perplexity  
+>&nbsp; Open AI(https://openai.com/index/openai-api/) / Perplexity.ai(https://docs.perplexity.ai/home)  
 >
 >Frontend :   
 >&nbsp; Thymeleaf / HTMX / JavaScript / Highlight.js / Webpack
 >
 >UI :  
->&nbsp; AdminKit [(Free Bootstrap 5 Admin Template - AdminKit)](https://adminkit.io/) / 
+>&nbsp; AdminKit (https://adminkit.io/)  
 > 
 >Server :   
->&nbsp; Oracle Cloud(SaaS) / Keycloak(인증서버) / ImageKit(이미지 저장)
+>&nbsp; Oracle Cloud (SaaS) / Keycloak (인증서버) / ImageKit (이미지 저장)
 >
 >Tools :  
 >&nbsp; Gradle / Git
@@ -46,7 +46,7 @@ JAVA 웹 백엔드 개발자를 목표로 하고 있는 김병주 라고 합니�
 >&nbsp; Docker / Github Actions
 >
 >Scaffold :   
->&nbsp; Bootify ([Rapid Spring Boot Prototypes | Bootify.io](https://bootify.io/))
+>&nbsp; Bootify (https://bootify.io/)
 >
 > ---
 > 

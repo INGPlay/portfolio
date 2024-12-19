@@ -2,7 +2,7 @@
 
 ## :pushpin: Intro
 JAVA 웹 백엔드 개발자를 목표로 하고 있는 김병주 라고 합니다.   
-Java Spring Framework와 Database를 기반으로 개발을 하고 있습니다.
+현재 Java Spring Framework와 Database를 기반으로 개발을 하고 있습니다.
 
 </br>
 
@@ -14,9 +14,61 @@ Java Spring Framework와 Database를 기반으로 개발을 하고 있습니다.
 
 ## :pushpin: Projects
 
-### 1. Trip Over  
+## JAVA
+
+### 1. Spring Prompt Builder
+>프롬프트, 모델 세팅을 등록하고, 이전에 등록된 세팅을 가져온다.  
 >
-><b>[배포 사이트 링크](https://3.36.163.190/)</b>  
+>개발 인원 : 1명  
+>
+>✔ 기술 스택:  
+>Backend :   
+>&nbsp; Java 21 / Spring Boot 3 / Spring AI 
+>&nbsp; Spring Data JPA / QueryDSL / Spring Security
+>&nbsp; MariaDB / Redis
+>
+>Frontend :   
+>&nbsp; Thymeleaf / HTMX / JavaScript / Highlight.js / Webpack
+>
+>UI :  
+>&nbsp; AdminKit [(Free Bootstrap 5 Admin Template - AdminKit)](https://adminkit.io/) / 
+> 
+>Server :   
+>&nbsp; Oracle Cloud(SaaS) / Keycloak(인증서버) / ImageKit(이미지 저장)
+>
+>Tools :  
+>&nbsp; Gradle / Git
+>
+>CI/CD :  
+>&nbsp; Docker / Github Actions
+>
+>Scaffold :   
+>&nbsp; Bootify ([Rapid Spring Boot Prototypes | Bootify.io](https://bootify.io/))
+>
+> ---
+> 
+>✔ 주요 구현 : 
+> #### 1. 챗
+> ![main](images/springpromptbuilder/1.png)
+> - 사용자가 미리 세팅된 화면에서 채팅을 입력할 수 있는 페이지이다. (이미지 붙여넣기 가능)
+> - 처음 들어왔을 시, 사용자가 기본 템플릿으로 환경으로 설정된다. '템플릿 선택' 버튼을 클릭하여 다른 템플릿을 적용할 수 있다.
+> - 아래의 채팅창을 통해 AI의 답변을 스트리밍을 받을 수 있다.
+>  
+> ![chat](images/springpromptbuilder/4.png)
+> - 사용자는 버튼을 클릭하여 작성된 질문을 수정해서 다시 입력하거나, 답변을 삭제할 수 있다.  
+>  
+> ![chat](images/springpromptbuilder/5.png)
+> - 챗 프로필을 선택할 수 있는 모달 페이지이다.
+>  
+> #### 2. 챗 프로필 추가
+> ![add](images/springpromptbuilder/2.png)
+> - 사용자가 사용하길 원하는 모델, 프롬프트, 설정값 등을 입력하여여 프로필을 저장장할 수 있다.
+>  
+> #### 3. 챗 템플릿 관리
+> ![list](images/springpromptbuilder/3.png)
+> - 저장된 템플릿을 수정하거나 삭제할 수 있다.
+>
+### 2. Trip Over  
 >
 > 국내 여행을 계획하고 있는 관광객들을 위한 일정 관리 도구 제공  
 > 멀티 캠퍼스에서 팀별 프로젝트 진행 
@@ -52,7 +104,7 @@ Java Spring Framework와 Database를 기반으로 개발을 하고 있습니다.
 > ---
 > 
 >✔ 주요 구현 : 
-> 
+>
 >#### 1. API를 활용한 지도 연결
 >   
 > ![mapClick](images/tripover/map_form_click.png)
@@ -78,116 +130,9 @@ Java Spring Framework와 Database를 기반으로 개발을 하고 있습니다.
 
 ---
 
-### 2. DynamicAuthority
->실시간으로 권한을 변경할 수 있는 게시판 웹 애플리케이션 구현  
->개발 기간: 2023.5.13 ~ 2023.5.31  
->개발 인원 : 1명
-> 
-> ---
-> 
->✔ 기술 스택:  
->Backend :   
->&nbsp; Java 11 / Spring Boot v2.7.11 / QueryDsl / Spring Data Jpa /  
->&nbsp; Spring Security / Lombok / H2 DB /  
->  
->Frontend :   
->&nbsp; HTML / Thymleaf / BootStrap / JavaScript / jQuery / AJAX / 
->  
->Tools :  
->&nbsp; Gradle / Git  
->
-> ---
-> 
->✔ 주요 구현 :
->
-> #### 1. Spring Data Jpa 및 QueryDSL을 활용한 게시판 구현
-> ![thread](images/dynamicauthority/main.png)
-> - Spring Data Jpa의 Pageable 객체를 활용하여 페이징 처리하였다.
-> - 동적 쿼리 사용을 위한 QueryDSL로 검색 기능을 구현하였다.
-> 
-> ![post](images/dynamicauthority/postmy.png)
-> - 게시글 작성자만 수정 및 삭제를 할 수 있도록 하였다.
-> - 댓글 및 대댓글을 구현하였다.
-> 
-> #### 2. Spring Security를 활용한 실시간 권한 제어
-> ![wireframe](images/dynamicauthority/Wireframe.png)
-> - 기본적으로 각 페이지 마다 들어갈 수 있는 권한을 다르게 구현하였다.
-> 
-> ![account](images/dynamicauthority/account.png)
-> - 관리자가 이 정해진 권한을 즉각적으로 수정하거나 사용자의 계정을 삭제할 수 있도록 하였다.
-> - 권한이 수정되면 수정된 사용자는 로그아웃 하게 된다. (SessionRegistry를 활용함)
-> 
-> ![role](images/dynamicauthority/role.png)
-> - 특정 Role에게 허용된 경로 또한 지정해 줄 수 있다.
-> 
-><b>[프로젝트 Github](https://github.com/INGPlay/SpringBoardAuthority)</b> 참고
+## Python
 
----
-
-### 3. Notebook
->사용자 계정마다 독립된 환경에서 노트를 저장할 수 있는 웹 애플리케이션 (개인 프로젝트)  
->개발 기간: 2023.3.31 ~ 2023.4.10  
->개발 인원 : 1명
->  
-> ---
-> 
->✔ 기술 스택:  
->Backend :   
->&nbsp; Java 11 / Spring Boot v2.7.10 / MyBatis / Spring Security / Oracle DB
->
->Frontend :   
->&nbsp; HTML / Thymleaf / BootStrap 
->
->Tools :  
->&nbsp; Gradle / Git
->  
-> ---
-> 
->✔ 주요 구현 :
-> 
-> #### - 스프링 시큐리티와 연계한 페이지 작성 
-> ![springmvc](images/notebook/pages.png)
-> - 로그인과 가입페이지에서 Spring Validation을 활용한 문자열 검증을 실시하였다.
-> - Spring Security를 활용하여 로그인한 각 개인만 접근할 수 있는 페이지를 작성하였다.
-> 
-><b>[프로젝트 Github](https://github.com/INGPlay/SpringMVC_Practice)</b> 참고
-
----
-
-### 4. Notebook API
->Notebook 프로젝트를 API 작성 및 개선한 프로젝트 (개인 프로젝트)  
->개발 기간: 2023.4.20 ~ 2023.4.30
->개발 인원: 1명 
->  
-> ---
-> 
->✔ 기술 스택:  
->Backend :   
->&nbsp; Java 11 / Spring Boot v2.7.10 / Hibernate JPA / H2 DB 
->  
->Test :  
->&nbsp; Swagger UI / Postman 
->
->Tools :  
->&nbsp; Gradle / Git
-> 
-> ---
-> 
->✔ 주요 구현 :
->
-> #### - 게시판 Rest API 작성 및 Swagger UI 활용
-> ![container](images/notebookapi/container.png)
-> ![post](images/notebookapi/post.png)
-> ![user](images/notebookapi/user.png)
-> ![shortCut](images/notebookapi/short-cut.png)
-> 
-> -  작성한 게시판 API를 Swagger UI로 활용할 수 있도록 하였다.
-> 
-><b>[프로젝트 Github](https://github.com/INGPlay/Spring_API_JPA_example)</b> 참고
-
----
-
-### etc. Kopanda
+### Kopanda
 >외국인 한국어 학습자를 위한 발화 평가 및 피드백 서비스  (팀 프로젝트)  
 >개발 기간: 2022.10 ~ 2022.12
 >개발 인원: 5명

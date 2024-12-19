@@ -23,9 +23,9 @@ JAVA 웹 백엔드 개발자를 목표로 하고 있는 김병주 라고 합니�
 >
 >✔ 기술 스택:  
 >Backend :   
->&nbsp; Java 21 / Spring Boot 3 / Spring AI 
->&nbsp; Spring Data JPA / QueryDSL / Spring Security
->&nbsp; MariaDB / Redis
+>&nbsp; Java 21 / Spring Boot 3 / Spring AI  
+>&nbsp; Spring Data JPA / QueryDSL / Spring Security  
+>&nbsp; MariaDB / Redis  
 >
 >Frontend :   
 >&nbsp; Thymeleaf / HTMX / JavaScript / Highlight.js / Webpack
@@ -68,6 +68,7 @@ JAVA 웹 백엔드 개발자를 목표로 하고 있는 김병주 라고 합니�
 > ![list](images/springpromptbuilder/3.png)
 > - 저장된 템플릿을 수정하거나 삭제할 수 있다.
 >
+---
 ### 2. Trip Over  
 >
 > 국내 여행을 계획하고 있는 관광객들을 위한 일정 관리 도구 제공  

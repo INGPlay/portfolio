@@ -27,7 +27,7 @@ JAVA 웹 백엔드 개발자를 목표로 하고 있는 김병주 라고 합니�
 >&nbsp; Spring Data JPA / QueryDSL / Spring Security  
 >&nbsp; MariaDB / Redis  
 >
->LLM Model API : 
+>LLM Model API :  
 >&nbsp; Open AI / Perplexity  
 >
 >Frontend :   

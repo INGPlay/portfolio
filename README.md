@@ -20,10 +20,15 @@ JAVA 웹 백엔드 개발자를 목표로 하고 있는 김병주 라고 합니�
 >프롬프트, 모델 세팅을 등록하고, 이전에 등록된 세팅을 가져온다.  
 >
 >개발 인원 : 1명  
+>역할 :   
+>&nbsp; Spring AI와 Spring WebFlux를 이용한 SSE 스트리밍 챗 구성  
+>&nbsp; Github Actions와 Docker를 이용한 자동 배포 구축  
+>&nbsp; Spring Security로 동적 권한 구성  
+>&nbsp; 프롬프트를 활용하여 원하는 언어로 답변 요청  
 >
 >✔ 기술 스택:  
 >Backend :   
->&nbsp; Java 21 / Spring Boot 3 / Spring AI  
+>&nbsp; Java 21 / Spring Boot 3 / Spring AI / Spring WebFlux  
 >&nbsp; Spring Data JPA / QueryDSL / Spring Security  
 >&nbsp; MariaDB / Redis  
 >

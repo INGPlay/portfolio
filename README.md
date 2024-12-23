@@ -1,7 +1,7 @@
 # 김병주 포트폴리오
 
 ## :pushpin: Intro
-JAVA 웹 백엔드 개발자를 목표로 하고 있는 김병주 라고 합니다.   
+JAVA 웹 개발자 김병주 라고 합니다.   
 현재 Java Spring Framework와 Database를 기반으로 개발을 하고 있습니다.
 
 </br>
@@ -42,7 +42,7 @@ JAVA 웹 백엔드 개발자를 목표로 하고 있는 김병주 라고 합니�
 >&nbsp; AdminKit (https://adminkit.io/)  
 > 
 >Server :   
->&nbsp; Oracle Cloud (SaaS) / Keycloak (인증서버) / ImageKit (이미지 저장)
+>&nbsp; Oracle Cloud (IaaS) / Keycloak (인증서버) / ImageKit (이미지 저장)
 >
 >Tools :  
 >&nbsp; Gradle / Git

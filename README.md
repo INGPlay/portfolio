@@ -42,7 +42,7 @@ JAVA 웹 개발자 김병주 라고 합니다.
 >&nbsp; AdminKit (https://adminkit.io/)  
 > 
 >Server :   
->&nbsp; Oracle Cloud (IaaS) / Keycloak (인증서버) / ImageKit (이미지 저장)
+>&nbsp; Oracle Cloud / Keycloak (인증서버) / ImageKit (이미지 저장)
 >
 >Tools :  
 >&nbsp; Gradle / Git
